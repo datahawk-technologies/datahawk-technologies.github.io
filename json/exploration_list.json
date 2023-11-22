@@ -1,14 +1,6 @@
 {
   "explorationList": [
     {
-      "title": "Test Github",
-      "description": "Boost your visibility on the world’s biggest ecommerce sites. Access exhaustive keyword insights and powerful analytics that will keep your products on the top of the pile.",
-      "icon": "fas fa-search",
-      "redirectionUrl": "https://docs.datahawk.co/",
-      "toolCount": 2,
-      "categories": ["analyze", "optimize"]
-    },
-    {
       "title": "Dominate your market with Strategic SEO",
       "description": "Boost your visibility on the world’s biggest ecommerce sites. Access exhaustive keyword insights and powerful analytics that will keep your products on the top of the pile.",
       "icon": "fas fa-search",
