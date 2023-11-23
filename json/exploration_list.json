@@ -1,84 +1,352 @@
 {
   "explorationList": [
     {
-      "title": "Dominate your market with Strategic SEO",
-      "description": "Boost your visibility on the world’s biggest ecommerce sites. Access exhaustive keyword insights and powerful analytics that will keep your products on the top of the pile.",
+      "title": "Analyze competition in search",
       "icon": "fas fa-search",
-      "redirectionUrl": "https://docs.datahawk.co/",
-      "toolCount": 2,
-      "categories": ["analyze", "optimize"]
+      "category": "Analyze",
+      "subCategory": "Gain Competitive Intelligence",
+      "tools": [
+        {
+          "name": "Search Report Template",
+          "redirectionUrl": ""
+        },
+        {
+          "name": "Analytics Essentials Template on Looker Studio",
+          "redirectionUrl": ""
+        }
+      ]
     },
     {
-      "title": "Launch the products your customers want",
-      "description": "Sharpen your new product launch strategies and maximize ROI thanks to market intelligence insights and advanced algorithms that calculate estimated sales with precision.",
-      "icon": "fas fa-cube",
-      "redirectionUrl": "https://docs.datahawk.co/",
-      "toolCount": 2,
-      "categories": ["convert", "convey"]
+      "title": "Analyze competition in categories",
+      "icon": "fas fa-search",
+      "category": "Analyze",
+      "subCategory": "Gain Competitive Intelligence",
+      "tools": [
+        {
+          "name": "Market Intelligence Report Template on PBI",
+          "redirectionUrl": "https://docs.datahawk.co/docs/market-intelligence"
+        }
+      ]
     },
     {
-      "title": "Cutting-edge pricing strategies",
-      "description": "Optimize your pricing strategy not only to win the sale but also maximize your margins.",
-      "icon": "fas fa-money-bill-trend-up",
-      "redirectionUrl": "https://docs.datahawk.co/",
-      "toolCount": 2,
-      "categories": ["optimize", "acquire"]
+      "title": "Stay alert on competitive dynamics",
+      "icon": "fas fa-bell",
+      "category": "Analyze",
+      "subCategory": "Gain Competitive Intelligence",
+      "tools": [
+        {
+          "name": "Alerts",
+          "redirectionUrl": "https://docs.datahawk.co/docs/alerts"
+        }
+      ]
     },
     {
-      "title": "Intelligent inventory forecasts and recommendations",
-      "description": "Lower your storage costs significantly by leveraging our fulfillment forecasts and replenishment recommendations. Identify and address fees anomalies efficiently to optimize operational expenses.",
-      "icon": "fas fa-wand-magic-sparkles",
-      "redirectionUrl": "https://docs.datahawk.co/",
-      "toolCount": 2,
-      "categories": ["optimize", "acquire"]
-    },
-    {
-      "title": "Increase your ROAS",
-      "description": "Segment your advertising reporting not just at campaign level but also down to a  keyword and product level, providing deeper insights into your campaigns performance to fine tune your CPC.",
-      "icon": "fas fa-arrows-spin",
-      "redirectionUrl": "https://docs.datahawk.co/",
-      "toolCount": 2,
-      "categories": ["optimize", "convert"]
-    },
-    {
-      "title": "Elevate your product listings",
-      "description": "Boost your conversion rate through thorough content monitoring and AI driven optimization. Leverage our in-house computed Listing Quality Score to benchmark your products against the gold standard in listing content.",
-      "icon": "fas fa-a",
-      "redirectionUrl": "https://docs.datahawk.co/",
-      "toolCount": 2,
-      "categories": ["convert", "optimize", "analyze"]
-    },
-    {
-      "title": "Protect your brand and detect unauthorized resellers and counterfeits",
-      "description": "Save time and identify unauthorized sellers and counterfeits products in one extract. Our solution will highlight discrepancies where unauthorized sellers compete on the same buybox or have duplicate listings, ensuring your brand’s integrity and customer trust remain intact.",
-      "icon": "fas fa-lock",
-      "redirectionUrl": "https://docs.datahawk.co/",
-      "toolCount": 2,
-      "categories": ["analyze", "convey"]
-    },
-    {
-      "title": "Understand your customers’ behavior and extend their Lifetime Value",
-      "description": "Lower your customer acquisition cost by retaining your current customers and cultivating their loyalty. Dive into key metrics like repurchase rates, churn trends and brand perception to mitigate detractors and amplify the lifetime value of your customer base.",
-      "icon": "fas fa-brain",
-      "redirectionUrl": "https://docs.datahawk.co/",
-      "toolCount": 2,
-      "categories": ["convey", "acquire", "analyze"]
-    },
-    {
-      "title": "Visualize and report on your sales performance",
-      "description": "DataHawk helps you visualize your sales performance in your preferred way with datasets integrating with all major BI tools. Whether you lean towards the comprehensive and in-depth analytics provided by Power BI or favor the visually streamlined approach of Google Studio.",
+      "title": "Explain sales rank anomalies with AI",
       "icon": "fas fa-chart-line",
-      "redirectionUrl": "https://docs.datahawk.co/",
-      "toolCount": 2,
-      "categories": ["analyze", "optimize"]
+      "category": "Analyze",
+      "subCategory": "Gain Competitive Intelligence",
+      "tools": [
+        {
+          "name": "AI Insights",
+          "redirectionUrl": "https://docs.datahawk.co/docs/insights"
+        }
+      ]
     },
     {
-      "title": "Gain intelligence on your competitive landscape and competitor’s strategies",
-      "description": "At DatHawk we scrap millions of products daily to provide you essential insights into your competitors sales, traffic, pricing strategies, product ranking, advertising tactics and content quality. Insights that you can use to maintain a competitive edge and stay ahead of the market.",
-      "icon": "fas fa-map",
-      "redirectionUrl": "https://docs.datahawk.co/",
-      "toolCount": 2,
-      "categories": ["analyze"]
+      "title": "Assess KPIs and Trends",
+      "icon": "fas fa-chart-bar",
+      "category": "Analyze",
+      "subCategory": "Analyze Performance",
+      "tools": [
+        {
+          "name": "Report Templates",
+          "redirectionUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Stay informed and act fast",
+      "icon": "fas fa-bolt",
+      "category": "Analyze",
+      "subCategory": "Analyze Performance",
+      "tools": [
+        {
+          "name": "Alerts",
+          "redirectionUrl": "https://docs.datahawk.co/docs/alerts"
+        }
+      ]
+    },
+    {
+      "title": "Build advanced systems and workflows",
+      "icon": "fas fa-code-branch",
+      "category": "Analyze",
+      "subCategory": "Analyze Performance",
+      "tools": [
+        {
+          "name": "Destinations",
+          "redirectionUrl": ""
+        },
+        {
+          "name": "Report Templates",
+          "redirectionUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Assess sales performance",
+      "icon": "fas fa-chart-bar",
+      "category": "Optimize",
+      "subCategory": "Grow Sales",
+      "tools": [
+        {
+          "name": "Seller Finances & Supply Chain Template on PBI",
+          "redirectionUrl": "https://docs.datahawk.co/docs/power-bi-templates"
+        },
+        {
+          "name": "Vendor Finances, Traffic & Supply Chain Template on PBI",
+          "redirectionUrl": "https://docs.datahawk.co/docs/vendor-finances-supply-chain"
+        },
+        {
+          "name": "Analytics Essentials Template on Looker Studio",
+          "redirectionUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Explain sales anomalies with AI",
+      "icon": "fas fa-chart-line",
+      "category": "Optimize",
+      "subCategory": "Grow Sales",
+      "tools": [
+        {
+          "name": "AI Insights",
+          "redirectionUrl": "https://docs.datahawk.co/docs/insights"
+        }
+      ]
+    },
+    {
+      "title": "Study profitability at any scale",
+      "icon": "fas fa-money-bill-wave",
+      "category": "Optimize",
+      "subCategory": "Maximize Profitability",
+      "tools": [
+        {
+          "name": "Seller Finances & Supply Chain Template on PBI",
+          "redirectionUrl": "https://docs.datahawk.co/docs/power-bi-templates"
+        },
+        {
+          "name": "Vendor Finances, Traffic & Supply Chain Template on PBI",
+          "redirectionUrl": "https://docs.datahawk.co/docs/vendor-finances-supply-chain"
+        },
+        {
+          "name": "Analytics Essentials Template on Looker Studio",
+          "redirectionUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Make profit-based restock decisions",
+      "icon": "fas fa-money-bill-trend-up",
+      "category": "Optimize",
+      "subCategory": "Maximize Profitability",
+      "tools": [
+        {
+          "name": "Seller Finances & Supply Chain Template on PBI",
+          "redirectionUrl": "https://docs.datahawk.co/docs/power-bi-templates"
+        }
+      ]
+    },
+    {
+      "title": "Assess SEO performance",
+      "icon": "fas fa-searchengin",
+      "category": "Acquire",
+      "subCategory": "Generate Organic Traffic",
+      "tools": [
+        {
+          "name": "Search Report Template on PBI",
+          "redirectionUrl": "https://docs.datahawk.co/docs/power-bi-templates"
+        },
+        {
+          "name": "Analytics Essentials Template on Looker Studio",
+          "redirectionUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Plan content through Listing Quality Analysis",
+      "icon": "fas fa-list",
+      "category": "Acquire",
+      "subCategory": "Generate Organic Traffic",
+      "tools": [
+        {
+          "name": "Analytics Essentials Template on Looker Studio",
+          "redirectionUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Respond to SEO nomalies with AI",
+      "icon": "fas fa-search",
+      "category": "Acquire",
+      "subCategory": "Generate Organic Traffic",
+      "tools": [
+        {
+          "name": "AI Insights",
+          "redirectionUrl": "https://docs.datahawk.co/docs/insights"
+        }
+      ]
+    },
+    {
+      "title": "Assess advertising performance",
+      "icon": "fas fa-search",
+      "category": "Acquire",
+      "subCategory": "Enhance Paid Traffic",
+      "tools": [
+        {
+          "name": "Advertising Report Template on PBI",
+          "redirectionUrl": "https://docs.datahawk.co/docs/advertising"
+        },
+        {
+          "name": "Seller Finances & Supply Chain Template on PBI",
+          "redirectionUrl": "https://docs.datahawk.co/docs/power-bi-templates"
+        },
+        {
+          "name": "Analytics Essentials Template on Looker Studio",
+          "redirectionUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Make performance-based ad decisions",
+      "icon": "fas fa-search",
+      "category": "Acquire",
+      "subCategory": "Enhance Paid Traffic",
+      "tools": [
+        {
+          "name": "Advertising Report Template on PBI",
+          "redirectionUrl": "https://docs.datahawk.co/docs/advertising"
+        }
+      ]
+    },
+    {
+      "title": "Explain advertising anomalies with AI",
+      "icon": "fas fa-search",
+      "category": "Acquire",
+      "subCategory": "Enhance Paid Traffic",
+      "tools": [
+        {
+          "name": "AI Insights",
+          "redirectionUrl": "https://docs.datahawk.co/docs/insights"
+        }
+      ]
+    },
+    {
+      "title": "Study buy box drivers and trends",
+      "icon": "fas fa-search",
+      "category": "Convert",
+      "subCategory": "Win the Buy Box",
+      "tools": [
+        {
+          "name": "Analytics Essentials Template on Looker Studio",
+          "redirectionUrl": ""
+        },
+        {
+          "name": "Product Report Template on PBI",
+          "redirectionUrl": "https://docs.datahawk.co/docs/power-bi-templates"
+        }
+      ]
+    },
+    {
+      "title": "Control pricing and distribution",
+      "icon": "fas fa-search",
+      "category": "Convert",
+      "subCategory": "Win the Buy Box",
+      "tools": [
+        {
+          "name": "Analytics Essentials Template on Looker Studio",
+          "redirectionUrl": ""
+        },
+        {
+          "name": "Product Report Template on PBI",
+          "redirectionUrl": "https://docs.datahawk.co/docs/power-bi-templates"
+        },
+        {
+          "name": "Seller Finances & Supply Chain Template on PBI",
+          "redirectionUrl": "https://docs.datahawk.co/docs/power-bi-templates"
+        }
+      ]
+    },
+    {
+      "title": "Receive alerts on buy box changes",
+      "icon": "fas fa-search",
+      "category": "Convert",
+      "subCategory": "Win the Buy Box",
+      "tools": [
+        {
+          "name": "Alerts",
+          "redirectionUrl": "https://docs.datahawk.co/docs/alerts"
+        }
+      ]
+    },
+    {
+      "title": "Analyze listing quality and monitor trends",
+      "icon": "fas fa-search",
+      "category": "Convert",
+      "subCategory": "Boost Conversion Rates",
+      "tools": [
+        {
+          "name": "Analytics Essentials Template on Looker Studio",
+          "redirectionUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Receive alerts on content and conversion changes",
+      "icon": "fas fa-search",
+      "category": "Convert",
+      "subCategory": "Boost Conversion Rates",
+      "tools": [
+        {
+          "name": "Alerts",
+          "redirectionUrl": "https://docs.datahawk.co/docs/alerts"
+        }
+      ]
+    },
+    {
+      "title": "Craft AI-optimized content in seconds",
+      "icon": "fas fa-search",
+      "category": "Convert",
+      "subCategory": "Boost Conversion Rates",
+      "tools": [
+        {
+          "name": "AI Copywriter",
+          "redirectionUrl": "https://docs.datahawk.co/docs/ai-copywriter"
+        }
+      ]
+    },
+    {
+      "title": "Uncover anauthorized Sellers Template on Google Sheets",
+      "icon": "fas fa-search",
+      "category": "Retain",
+      "subCategory": "Protect Brand Image",
+      "tools": [
+        {
+          "name": "Analytics Essentials Template on Looker Studio",
+          "redirectionUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Receive Alerts on pricing, reseller, and content changes",
+      "icon": "fas fa-search",
+      "category": "Retain",
+      "subCategory": "Protect Brand Image",
+      "tools": [
+        {
+          "name": "Alerts",
+          "redirectionUrl": "https://docs.datahawk.co/docs/alerts"
+        }
+      ]
     }
   ]
 }
