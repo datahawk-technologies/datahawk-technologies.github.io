@@ -78,7 +78,7 @@
     },
     {
       "title": "Build advanced systems and workflows",
-      "icon": "fas fa-code-base",
+      "icon": "fas fa-code",
       "category": "Analyze",
       "subCategory": "Analyze Performance",
       "tools": [
